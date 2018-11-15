@@ -1,0 +1,13 @@
+PadPaper Editor 1.02 Released 30/12/03 
+by Gerardo Orellana "Core Developer"
+hello@goaccess.io
+
+This is a basic a GUI text editor, it simply opens/saves and edits 
+simple ascii text files. It possibly will be useful for making quick 
+edits to files and things like that.
+Right now its basic goal is to be a small text editor without many 
+advanced features, however it may evolve into having specialized features.
+
+It is released under the GNU general purpose license and this version 
+has been slightly munged to work under MS Windows by Fuzzyman.
+

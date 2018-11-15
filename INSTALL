@@ -1,0 +1,31 @@
+PadPaper Editor 1.01 Released 11/12/03 
+by Gerardo Orellana "Core Developer"
+hello@goaccess.io
+
+
+Basic Installation
+==================
+
+   These are generic installation instructions.
+
+   The `Install.sh' shell script.
+
+The simplest way to Install this package is:
+
+  1. `cd' to the directory containing the package's source code and type
+     `./Install.sh' to configure and install the package for your system.
+     If you're using `csh' on an old version of System V, you might need
+     to type `sh ./Install.sh' instead to prevent `csh' from trying to
+     execute install itself.
+
+     Running `Install.sh' takes awhile.  While running, it prints some
+     messages telling which features it is checking for.
+
+  2. Type `PadPaper' to run PadPaper Editor 1.02.
+
+  
+Enjoy it!!
+
+
+
+
